@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity
+101,Laptop,Electronics,800,50
+102,Smartphone,Electronics,500,100
+103,Backpack,Fashion,50,200
+104,Coffee Maker,Appliances,100,30
+105,Running Shoes,Sports,80,75
+106,Digital Camera,Electronics,300,20
+107,Smart TV,Electronics,1000,15
+108,Leather Jacket,Fashion,150,40
+109,Microwave Oven,Appliances,200,25
+110,Fitness Tracker,Sports,50,60

@@ -1,0 +1,9 @@
+customer_id,customer_name,email,address,phone
+1,John Doe,john.doe@email.com,123 Main St  Cityville,555-123-4567
+2,Jane Smith,jane.smith@email.com,456 Oak St  Townburg,555-987-6543
+3,Bob Johnson,bob.johnson@email.com,789 Pine St  Villagetown,555-321-6789
+4,Alice Brown,alice.brown@email.com,101 Cedar St  Hamletville,555-555-5555
+5,David Miller,david.miller@email.com,202 Elm St  Riverside,555-234-5678
+6,Emily White,emily.white@email.com,303 Maple St  Hillside,555-876-5432
+7,Michael Davis,michael.davis@email.com,404 Birch St  Parkville,555-345-6789
+8,Olivia Wilson,olivia.wilson@email.com,505 Cedar St  Lakeside,555-987-6543

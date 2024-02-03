@@ -1,0 +1,9 @@
+payment_id,order_id,amount,payment_date,payment_method
+2001,501,1500,1/15/2024 11:00,Credit Card
+2002,502,400,1/16/2024 13:00,PayPal
+2003,503,900,1/17/2024 15:00,Debit Card
+2004,504,300,1/18/2024 9:30,Google Pay
+2005,505,1200,1/19/2024 17:00,Apple Pay
+2006,506,600,1/20/2024 12:00,Credit Card
+2007,507,750,1/21/2024 14:00,Debit Card
+2008,508,450,1/22/2024 9:00,PayPal
